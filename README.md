@@ -1,37 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+HOME :
 
-## Getting Started
+![Screenshot 2025-06-05 154450](https://github.com/user-attachments/assets/db9d15f8-f0dc-4d29-8933-a310c3c6e54d)
 
-First, run the development server:
+![Screenshot 2025-06-05 154517](https://github.com/user-attachments/assets/70ce666b-97e5-4c48-9fe2-c6cef9482155)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Detail Surah :
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Screenshot 2025-06-05 154558](https://github.com/user-attachments/assets/2e0ac97c-fd0e-4994-a463-c17c03345c7f)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![Screenshot 2025-06-05 154828](https://github.com/user-attachments/assets/42646dd3-d2f0-482b-9a3f-a334d77771aa)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+![Screenshot 2025-06-05 154905](https://github.com/user-attachments/assets/cef7d21b-ca8f-448b-b9f7-4b215a32d147)
 
-## Learn More
+Doa :
 
-To learn more about Next.js, take a look at the following resources:
+![Screenshot 2025-06-05 154905](https://github.com/user-attachments/assets/87987c2c-763a-4d1e-88a6-3e1049945ddc)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Screenshot 2025-06-05 155024](https://github.com/user-attachments/assets/2b9e9674-f80b-443b-bd56-033c5b5088ec)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Asmaul Husna :
 
-## Deploy on Vercel
+![Screenshot 2025-06-05 155047](https://github.com/user-attachments/assets/dc812a1c-2582-40c4-b34e-8d0b7f2ae5ce)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# thequran
+![Screenshot 2025-06-05 155107](https://github.com/user-attachments/assets/351de24b-8629-4049-84c2-19293586503a)
