@@ -10,8 +10,6 @@ Detail Surah :
 
 ![Screenshot 2025-06-05 154828](https://github.com/user-attachments/assets/42646dd3-d2f0-482b-9a3f-a334d77771aa)
 
-![Screenshot 2025-06-05 154905](https://github.com/user-attachments/assets/cef7d21b-ca8f-448b-b9f7-4b215a32d147)
-
 Doa :
 
 ![Screenshot 2025-06-05 154905](https://github.com/user-attachments/assets/87987c2c-763a-4d1e-88a6-3e1049945ddc)
